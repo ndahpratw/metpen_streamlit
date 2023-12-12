@@ -7,7 +7,7 @@ st.markdown(
     "<h1 style='text-align: center;'>Klasifikasi Diabetes Menggunakan Model Random Forest</h1>", unsafe_allow_html=True
 )
 st.markdown(
-    "<h4 style='text-align: center;'>Indah Pratiwi | 210411100050 | PSD - B</h4>", unsafe_allow_html=True
+    "<h4 style='text-align: center;'>Indah Pratiwi | 210411100050 | Metpen - B</h4>", unsafe_allow_html=True
 )
 
 with open('model_rf.pkl', 'rb') as file_model:
